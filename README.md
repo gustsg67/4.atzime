@@ -21,3 +21,11 @@ Matemātikās Funckijas
 13.pow() - atgriež skaitļa vērtību, paceltu citas skaitļa pakāpē
 14.cbrt() - atgriež skaitļa kubsakni
 15.log() - atgriež skaitļa dabisko logaritmu
+
+Kādēļ es izvēlējos šis biblotēkas un par tām veidot aplikāciju?
+Es izvēlējos veidot par python pamatfunkcijām,matemātiskām funckijām un nejaušības funkcijām, jo pats esmu pielietojis līdzīgas savos programēšanas projektos un, jo manuprat, šis ir vienas no visfundementālākam funkcijām, kas pastāv un ietilps daudzās programās.
+
+Secinājumi par darbu.
+Beidzot darbu uzzināju vairāk par tieši pythonu programēšanas valodu un, ka lietot kompleksākas funkcijas, lai veiktu augstāku matemātiku, vai lai nejauši izvēletos kādu skaitli. Man personīgi ši īpaši noderes nākotnes darbos un deva iespēju labāk izprast pythonu funkcijas un to mijedarbību.
+
+Gusts Garonskis 11a
