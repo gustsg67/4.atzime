@@ -1,8 +1,8 @@
 import math
 #Math Functions
-#log() - returns the natural logarithm of a number
+#log() - atgriež skaitļa dabisko logaritmu
 def piemers15():
-    input_number = float(input("Ievadi skaitli: "))
+    input_number = float(input("Ievadi skaitli, kura dabisko logaritmu vēlies atrast: "))
     result = math.log(input_number)
     print(result)
     return result

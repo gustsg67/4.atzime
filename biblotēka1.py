@@ -1,10 +1,10 @@
 
 #Built-in Functions
-#bin() - converts an integer to a binary string
+#bin() - pārvērš veselu skaitli binārajā virknes formā
 
 
 def piemers1():
-    input_number = int(input("Ievadi skaitli: "))
+    input_number = int(input("Ievadi skaitli kuru pārvērtis binārajā formā: "))
     result = bin(input_number)
     print(result)
     return result

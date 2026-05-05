@@ -15,6 +15,7 @@ from biblotēka14 import piemers14
 from biblotēka15 import piemers15
 
 while True:
+    print("Vai vēlies uzzināt kā strāda python funkcijas? ievadi vienu no 15 skatiļiem un tālak uzzinas par katru atseviški!")
     print("Izvēlies funkciju, ko vēlies izpildīt no 1 līdz 15 (vai ievadi 'exit' lai izietu): ")
     user_input = input()
     if user_input == 'exit':

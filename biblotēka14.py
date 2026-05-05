@@ -1,8 +1,9 @@
 import math
 #Math Functions
-#cbrt() - returns the cube root of a number
+#cbrt() - atgriež skaitļa kubsakni
+
 def piemers14():
-    input_number = float(input("Ievadi skaitli: "))
+    input_number = float(input("Ievadi skaitli, kura kubsakni vēlies atrast: "))
     result = math.cbrt(input_number)
     print(result)
     return result

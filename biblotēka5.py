@@ -1,5 +1,5 @@
 #Built-in Functions
-#complex() - converts a number or a string to a complex number
+#complex() - pārvērš skaitli vai virkni par kompleksu skaitli
 
 def piemers5():
     input_value = input("Ievadi skaitli vai tekstu, ko vēlies pārvērst par kompleksu skaitli: ")
